@@ -1,4 +1,14 @@
-### Hi there 👋
+<div align="center">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=2000&color=4EB8EF&background=FFBF2E00&center=true&vCenter=true&width=435&font=Roboto&lines=Hello%20World;你好%20世界;Bonjour%20le%20monde;Hallo%20Welt;헬로%20월드;こんにちは世界" alt="Typing SVG" />
+</div>
+
+- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m Wade Wang. Welcome to my Github!
+- 👨‍💻 I’m currently an AI engineer working in ShangHai, China.
+- ⛺️ The profile image is my hometown ~
+- ✍️ I’m interested in CV, AIGC, Multi-modality, XR etc.
+- ✨ I'll mainly open source little tools and maybe reproduction of paper here ~ 
+- 👏 Follow me: [![](https://img.shields.io/github/followers/wwdok?label=github&style=social)](https://github.com/wwdok/)  [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/wang-wei-78-16-16)  [![哔哩哔哩](https://img.shields.io/badge/哔哩哔哩-white?logo=bilibili)](https://space.bilibili.com/101043796)
+
 
 <!--
 **wwdok/wwdok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
