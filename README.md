@@ -4,8 +4,7 @@
 
 - <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m Wade Wang. Welcome to my Github !
 - 👨‍💻 I’m currently an AI engineer working in ShangHai, China.
-- ⛺️ The profile image is my hometown ~
-- ✍️ I’m interested in CV, AIGC, Multi-modality, XR etc.
+- ✍️ I’m interested in CV, AIGC, Multi-modality, Agent etc.
 - ✨ I'll mainly open source little tools and maybe reproduction of paper here ~ 
 - 👏 Follow me: [![](https://img.shields.io/github/followers/wwdok?label=github&style=social)](https://github.com/wwdok/)  [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/wang-wei-78-16-16)  [![哔哩哔哩](https://img.shields.io/badge/哔哩哔哩-white?logo=bilibili)](https://space.bilibili.com/101043796)
 
